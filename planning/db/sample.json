@@ -1,8 +1,6 @@
 {
   "_id": "EXAMPLETEXT",
-  "case": {
-    "case_id": "adjectiveAnimal",
-    "batch_id": "batchString"
+  "case": "ObjectID('EXAMPLEID')"
   },
   "patient": {
     "extended_patient_metadata": "ObjectID('EXAMPLEID')"
