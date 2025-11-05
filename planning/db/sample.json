@@ -1,13 +1,16 @@
 {
   "_id": "EXAMPLETEXT",
-
+  "case": {
+    "case_id": "adjectiveAnimal",
+    "batch_id": "batchString"
+  },
   "patient": {
     "extended_patient_metadata": "ObjectID('EXAMPLEID')"
   },
   "sample": {
-      "sample_id": "AA11",
-      "sample_source": "cerebrospinal_fluid",
-      "biopsy_id": "BB22"
+    "sample_id": "AA11",
+    "sample_source": "cerebrospinal_fluid",
+    "biopsy_id": "BB22"
   },
   "library_preparation": {
     "library_name": "Nextera xt",
@@ -60,4 +63,4 @@
       }
     }
   }
-}
+} 
